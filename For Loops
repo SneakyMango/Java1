@@ -1,0 +1,58 @@
+
+public class LoopsExamples {
+
+	public static void main(String[] args) {
+		//#1 There are 10 numbers to print.
+		//Use a for loop to count 1,2,...,10.The numbers we want
+		//to print are 2*1, 2*2,...2*10.
+		/*
+		for ( int N = 1; N <= 10; N++) {
+			System.out.println(2*N);
+		}
+		
+		System.out.println("Problem #2");
+		//#2 Use a for loop that counts 2,4,..20 directly by
+		//adding 2 to N each time through the loop.
+		for (int N = 2; N<= 20; N = N + 2) {
+			System.out.println(N);
+		}
+		
+		System.out.println("Problem #3");
+		//#3 Count off all the numbers 2,3,4,..19,20, but only
+		//print out the numbers that are even.
+		for (int N = 2; N <= 20; N++) {
+			if (N % 2 == 0)   //is N even?
+				System.out.println(N);
+		}
+		
+		System.out.println("Problem #4");
+		//#4 Irritate the professor with a solution that
+		//follows the letter of this silly assignment 
+		//while making fun of it 
+		for (int N = 1; N <= 1; N++) {
+			System.out.println("2 4 6 8 10 12 14 18 20");
+		}
+		
+		//print out the alphabet on one line of output.
+		char ch;     //The loop control variable;
+		             //       one of the letters to be printed.
+		for (ch = 'A'; ch <= 'Z';  ch++ ) {
+			System.out.print(ch);
+		}
+		*/
+		
+		
+		/*
+		for (int i = 1; i > 10; i++) {}
+
+			{
+			    System.out.println("La");
+			}
+		*/
+		
+		
+		
+		
+	}
+
+}
